@@ -122,7 +122,7 @@ semantic_sync/
 
 ### 1. Clone & Install
 ```bash
-git clone [https://github.com/your-org/semantic-sync.git](https://github.com/AbdullahWali007/Semantic-Sync.git)
+git clone https://github.com/AbdullahWali007/Semantic-Sync.git
 cd semantic-sync
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
